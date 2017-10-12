@@ -1,0 +1,23 @@
+{
+  "name": "wp-documentation",
+  "version": "1.0.0",
+  "description": "Standards and Practices",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markrogers9109/wp-documentation.git"
+  },
+  "author": "Mark Rogers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markrogers9109/wp-documentation/issues"
+  },
+  "homepage": "https://github.com/markrogers9109/wp-documentation#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
+  }
+}
